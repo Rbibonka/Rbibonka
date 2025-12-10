@@ -44,6 +44,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1911px-Logo_Aseprite.svg.png" height="40" alt="Aseprite logo"  />
+   <img width="12" />
+  <img src="https://www.gstatic.com/devrel-devsite/prod/v9de0f443992d54ad799f913d3a82969ff613e39ab9e3e056983c556b3c2ef1f8/firebase/images/touchicon-180.png" height="40" alt="Firebase logo"  />
 </div>
 
 ###
