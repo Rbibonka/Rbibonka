@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2V4Em4MiwRBTOsNO4Jo-QzpmvnNjyesUAvg&s" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0VDTYqntNaYoeyykHoESReGQgJNV9LfBIYg&s" height="40" alt="mixamo logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png" height="40" alt="js logo"  />
