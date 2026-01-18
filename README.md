@@ -29,7 +29,7 @@
 <div align="center">
   <img src="https://www.svgrepo.com/show/331626/unity.svg" height="40" alt="Unity logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" height="40" alt="c# logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/330px-Logo_C_sharp.svg.png?20221121173824" height="40" alt="c# logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2V4Em4MiwRBTOsNO4Jo-QzpmvnNjyesUAvg&s" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -37,11 +37,11 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png" height="40" alt="js logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1365px-Figma-logo.svg.png" height="40" alt="figma logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1911px-Logo_Aseprite.svg.png" height="40" alt="Aseprite logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/250px-Logo_Aseprite.svg.png" height="40" alt="Aseprite logo"  />
    <img width="12" />
   <img src="https://www.gstatic.com/devrel-devsite/prod/v9de0f443992d54ad799f913d3a82969ff613e39ab9e3e056983c556b3c2ef1f8/firebase/images/touchicon-180.png" height="40" alt="Firebase logo"  />
 </div>
